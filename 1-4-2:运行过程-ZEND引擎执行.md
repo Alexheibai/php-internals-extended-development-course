@@ -83,7 +83,7 @@ struct _zend_execute_data {
  *     EX_CV_NUM(0) ---------> | VAR[0]                                = ARG[1]          | 参数(arguments)
  *                             | ...                                                     |
  *                             | VAR[op_array->num_args-1]             = ARG[N]          |
- *							 | VAR[num_args]                         = CV[num_args]    | 局部变量(remaining CVs)
+ *                             | VAR[num_args]                         = CV[num_args]    | 局部变量(remaining CVs)
  *                             | ...                                                     |
  *                             | VAR[op_array->last_var-1]             = CV[last_var-1]  |
  *                             | VAR[op_array->last_var]               = TMP[0]          | 临时变量(TMP/VARs)
