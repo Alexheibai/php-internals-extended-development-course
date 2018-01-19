@@ -1,9 +1,9 @@
-### PHP内核学习交流:QQ群 276949503
+## ** 第一季视频课程已经免费，需要的进入QQ交流群 : 276949503下载 **
+
 
 #### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
 
-### 配套视频观看地址
-http://edu.csdn.net/course/detail/6261
+### 配套视频在线观看地址:http://edu.csdn.net/course/detail/6261
 
 课程目标：了解PHP底层的工作原理和一门开发语言的底层实现，掌握PHP的扩展开发知识。
 
