@@ -1,6 +1,5 @@
 ## 第一季视频课程已经**免费**，需要的进入QQ交流群 : 276949503下载
 
-
 #### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
 
 课程目标：了解PHP底层的工作原理和一门开发语言的底层实现，掌握PHP的扩展开发知识。
@@ -21,5 +20,8 @@ A:首先一次上线第一季，第二季原计划三个月之内发布，如果
 ###### 配套视频在线观看地址:http://edu.csdn.net/course/detail/6261
 
 #### 课程的相关问题请在QQ群或者课件GIT地址的Issues中提出。
+
+### 转载请注明出处。
+
 
 [PHP底层内核源码与扩展开发](http://phpcoredump.com)
