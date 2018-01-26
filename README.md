@@ -1,4 +1,4 @@
-## 第一季视频课程已经**免费**，需要的进入QQ交流群 : 276949503下载
+## 配套视频已共享到QQ交流群 : 276949503,欢迎免费下载学习
 
 #### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
 
