@@ -1,4 +1,4 @@
-## 配套视频已共享到QQ交流群 : 276949503,欢迎免费下载学习
+## 配套视频已共享到QQ交流群 : 276949503,欢迎免费下载学习 重申：免费
 
 #### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
 
