@@ -20,38 +20,6 @@
 * 把扩展跟随php一起编译安装，也就是 configure 命令
 
 
-##### ~~例如:~~
-    ./configure --prefix=/usr/local/php
-    --enable-opcache \
-    --with-mysqli \
-    --with-pdo-mysql=mysqlnd \
-    --enable-mysqlnd \
-    --enable-inline-optimization \
-    --enable-sockets \
-    --enable-zip \
-    --enable-calendar \
-    --enable-bcmath \
-    --enable-soap \
-    --enable-fpm \
-    --with-zlib \
-    --with-iconv \
-    --with-gd \
-    --with-xmlrpc \
-    --enable-mbstring \
-    --without-sqlite3 \
-    --without-pdo-sqlite \
-    --with-curl \
-    --enable-ftp \
-    --with-mcrypt  \
-    --enable-pcntl \
-    --with-freetype-dir \
-    --with-jpeg-dir \
-    --with-png-dir \
-    --disable-ipv6 \
-    --disable-debug \
-    --with-openssl \
-    --disable-maintainer-zts \
-
 ##### 比如 configure 命令行可能看起来象这样：
 $ ./configure --prefix=/where/to/install/php --enable-debug --enable-maintainer-zts --enable-cgi --enable-cli --with-mysql=/path/to/mysql
 
@@ -133,18 +101,3 @@ $ ./configure --prefix=/where/to/install/php --enable-debug --enable-maintainer-
     └── sesrver-test-config.php         //测试脚本
     └── UPGRADING                       //版本更新说明
     └── UPGRADING.INTERNALS             //内部更新说明
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
