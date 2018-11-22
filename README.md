@@ -19,3 +19,9 @@
 
 ##### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
 PHP底层内核源码分析和扩展开发 http://phpcoredump.com
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/huqinlou0123/php-internals-extended-development-course.svg)](https://starcharts.herokuapp.com/huqinlou0123/php-internals-extended-development-course)
+      
