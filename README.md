@@ -9,16 +9,16 @@
 ##### Q:第二季什么时候更新完? A:正在录制中，待定。
 
 ##### 课程的相关问题请在QQ群或者课件GIT地址的Issues中提出。
-
+<!-- 
 #### 如果您觉得这个项目帮到了您，请支持下本项目，给作者些动力。
 ![微信转帐](./image/other/zfbzz_small.png)
 ![微信转帐](./image/other/wxzz_small.png)
 ###### 配套视频赞助在线观看地址:http://edu.csdn.net/course/detail/6261
-
+-->
 ### 转载请注明出处。
 
 ##### 最新课件下载地址:https://github.com/huqinlou0123/php-internals-extended-development-course
-PHP底层内核源码分析和扩展开发 http://phpcoredump.com
+<!-- PHP底层内核源码分析和扩展开发 http://phpcoredump.com-->
 
 
 ## Stargazers over time
