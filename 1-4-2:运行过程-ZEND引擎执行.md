@@ -71,29 +71,8 @@ struct _zend_execute_data {
 ![C程序运行栈](./image/1-4-2C程序运行栈.png)
 
 ### ZEND分配运行栈
-```c
-//Zend/zend_execute.c : 2094
-/*
- * 栈帧布局,所有运行栈空间是同时分配的 / Stack Frame Layout (the whole stack frame is allocated at once)
- * ==================
- *
- *                             +=========================================================+
- * EG(current_execute_data) -> | zend_execute_data                                       |
- *                             +---------------------------------------------------------+
- *     EX_CV_NUM(0) ---------> | VAR[0]                                = ARG[1]          | 参数(arguments)
- *                             | ...                                                     |
- *                             | VAR[op_array->num_args-1]             = ARG[N]          |
- *                             | VAR[num_args]                         = CV[num_args]    | 局部变量(remaining CVs)
- *                             | ...                                                     |
- *                             | VAR[op_array->last_var-1]             = CV[last_var-1]  |
- *                             | VAR[op_array->last_var]               = TMP[0]          | 临时变量(TMP/VARs)
- *                             | ...                                                     |
- *                             | VAR[op_array->last_var+op_array->T-1] = TMP[T]          |
- *                             | ARG[N+1] (extra_args)                                   | 其余参数(extra arguments)
- *                             | ...                                                     |
- *                             +---------------------------------------------------------+
- */
-```
+![ZEND分配运行栈](./image/1-4-2ZEND分配运行栈.png)
+
 #### 变量类型:
 ```c
 //  Zend/zend_compile.h
